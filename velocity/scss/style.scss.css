@@ -1,0 +1,19 @@
+div {
+	height: 100px;
+	width:100px;
+	margin-bottom: 5px;
+	border-radius: 5%;
+}
+.rouge{
+background-color: red;
+}
+.vert{
+background-color: green;
+}
+.bleu{
+background-color: blue;
+}
+.jaune{
+background-color: yellow;
+opacity: 0;
+}
